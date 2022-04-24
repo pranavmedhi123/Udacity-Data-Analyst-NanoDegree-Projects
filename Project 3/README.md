@@ -1,4 +1,4 @@
-# Exploring WeRateDogs Twitter Dataset Analysis
+# Perform A/B Testing 
 
 ### A/B Testing Use Case
 A/B tests are very commonly performed by data analysts and data scientists. For this project, you will be working to understand the results of an A/B test run by an e-commerce website.  Your goal is to work through this notebook to help the company understand if they should:
